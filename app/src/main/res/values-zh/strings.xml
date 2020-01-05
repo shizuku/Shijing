@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">诗经</string>
+    <string name="action_settings">设置</string>
+    <string name="action_random">随机</string>
+    <string name="action_contents">目录</string>
+    <string name="action_exit">退出</string>
+    <string name="action_search">搜索</string>
+    <string name="action_about">关于</string>
+    <string name="large_text">此项目开源并遵循MIT开源协议。\n\n
+    GitHub：https://github.com/shizuku\n\n
+    文本数据来源于开源项目chinese-poetry（https://github.com/chinese-poetry/chinese-poetry），在此特致谢意。\n\n
+    </string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_contents">目录</string>
+</resources>
